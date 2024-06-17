@@ -193,14 +193,6 @@
 
 * [【作者说】关于创始人](https://github.com/numberwolf/h265web.js/wiki/%E3%80%90%E4%BD%9C%E8%80%85%E8%AF%B4%E3%80%91%E5%85%B3%E4%BA%8E%E5%88%9B%E5%A7%8B%E4%BA%BA)
 
-<hr>
-
-### 捐赠 ###
-
-|  微信 | 支付宝 | PayPal |
-|  ---- | ----  | ---- |
-| <img src="resource/donate/wechat.JPG" height="500"> | <img src="resource/donate/alipay.JPG" height="500"> | TODO |
-
 
 
 
